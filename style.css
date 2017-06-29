@@ -92,6 +92,7 @@ form {
   background-color: #eee;
   padding: 20px;
   font-weight: bold;
+  line-height: 300%;;
 }
 
 .name {
@@ -99,6 +100,15 @@ form {
   color: #fff;
   padding: 20px;
   border-radius: 5px;
+}
+
+input {
+  padding: 15px;
+}
+
+textarea {
+  width: 100%;
+  font-size: 16px;
 }
 
 #submit_button {
